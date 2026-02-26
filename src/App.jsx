@@ -147,15 +147,15 @@ const App = () => {
     {
       title: "B.Tech in Computer Science & Engineering",
       institution: "Manav Rachna University",
-      duration: "2023 - 2027",
+      duration: "2024 - 2028",
       grade: "CGPA: 8.86 (Academic Distinction)",
-      description: "Actively involved in technical societies; Finalist at IEEE NSUT Hackvision and Winner of Innoskill 2025 Code Debugging.",
+      description: "Actively involved in technical societies; Google Cloud Hackthon, Finalist at IEEE NSUT Hackvision and Winner of Innoskill 2025 Code Debugging.",
       icon: <GraduationCap size={18} />
     },
     {
       title: "Secondary Education (PCM)",
-      institution: "No (1) BEHS / SKV",
-      duration: "2017 - 2023",
+      institution: "No (1) BEHS / Pakokku/ Myanmar",
+      duration: "2017 - 2019",
       grade: "Distinction in Mathematics",
       description: "Built a solid foundation in logic and computational mathematics, graduating with top honors.",
       icon: <GraduationCap size={18} />
